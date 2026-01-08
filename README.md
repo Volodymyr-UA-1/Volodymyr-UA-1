@@ -42,6 +42,4 @@ I’m a beginner developer studying at **GoIT**. I love building practical web a
 
 ### How to contact Me:
 
-* ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) **salashchenkovladymyr@gmail.com**
-* ![Phone](https://img.shields.io/badge/Phone-34B7F1?style=for-the-badge&logo=whatsapp&logoColor=white) **+380956959236**
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/volodymyr-salashchenko-85887039a/)
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) **salashchenkovladymyr@gmail.com** &nbsp;&nbsp; ![Phone](https://img.shields.io/badge/Phone-34B7F1?style=for-the-badge&logo=whatsapp&logoColor=white) **+380956959236** &nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/volodymyr-salashchenko-85887039a/)
