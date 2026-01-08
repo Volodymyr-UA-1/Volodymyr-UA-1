@@ -32,6 +32,9 @@ I’m a beginner developer studying at **GoIT**. I love building practical web a
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+### 🌐 Languages:
+![English](https://img.shields.io/badge/English-A2%2B%20(Pre--Intermediate)-blue?style=flat-square) &nbsp;&nbsp; ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+
 
 ### 🔭 About Me
 - 🌱 I’m currently learning how to connect **ESP8266/ESP32** with web applications.
