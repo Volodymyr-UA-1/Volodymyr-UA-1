@@ -44,5 +44,4 @@ I’m a beginner developer studying at **GoIT**. I love building practical web a
 ---
 
 ### 📬 How to reach me:
-### 📬 How to reach me:
 [Email](mailto:salashchenkovladymyr@gmail.com) | [WhatsApp](https://wa.me/380956959236) | [LinkedIn](https://www.linkedin.com/in/volodymyr-salashchenko-85887039a/)
