@@ -28,14 +28,6 @@ I’m a beginner developer studying at **GoIT**. I love building practical web a
 
 ---
 
-
-### 🌐 Languages
-
-![English](https://img.shields.io/badge/English-A2%2B%20(Pre--Intermediate)-blue?style=flat-square)
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
-
----
-
 ### 📬 How to reach me:
 
 [Email](mailto:salashchenkovladymyr@gmail.com) | [WhatsApp](https://wa.me/380956959236) | [LinkedIn](https://www.linkedin.com/in/volodymyr-salashchenko-85887039a/)
