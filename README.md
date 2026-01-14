@@ -6,18 +6,23 @@
 I'm a beginner developer studying at GoIT. I love building practical web applications and exploring the world of hardware and IoT.
 
 ---
-## **🧠 Frontend**
+## 🧰 Tech Stack
+### 🧠 Frontend
 JavaScript | React | HTML5 | CSS3
 
-## **🔌 Embedded & IoT**
+### 🔌 Embedded & IoT
 Arduino | ESP8266
 
-## **🛠 Tools**
+### 🛠 Tools
 Git | VS Code
 
 ---
 
-### 🌐 Languages
+## 💻Featured Projects
+
+---
+
+## 🌐 Languages
 
 ![English](https://img.shields.io/badge/English-A2%2B%20(Pre--Intermediate)-blue?style=flat-square)
 <br>
@@ -25,6 +30,6 @@ Git | VS Code
 
 ---
 
-### 📬 How to reach me:
+## 📬 How to reach me:
 
 [Email](mailto:salashchenkovladymyr@gmail.com) | [WhatsApp](https://wa.me/380956959236) | [LinkedIn](https://www.linkedin.com/in/volodymyr-salashchenko-85887039a/)
