@@ -3,12 +3,14 @@
 
 # **Junior Full Stack Developer | IoT Enthusiast**
 
-I'm a beginner developer studying at GoIT. I love building practical web applications and exploring the world of hardware and IoT.
+I'm a junior Full-Stack Developer in training at GoIT.
+I build responsive web applications using HTML, CSS, JavaScript, React, and TypeScript, and I’m gradually expanding into backend development.
+Beyond web, I’m passionate about hardware and IoT — I enjoy working with microcontrollers and creating smart solutions that connect software with real-world devices.
 
 ---
 ## 🧰 Tech Stack
 ### 🧠 Frontend
-JavaScript | React | HTML5 | CSS3
+JavaScript | Type Script | React | HTML5 | CSS3
 
 ### 🔌 Embedded & IoT
 Arduino | ESP8266
@@ -19,10 +21,13 @@ Git | VS Code
 ---
 
 ## 💻Featured Projects
-GoIT Markup + JavaScript Project
-A responsive website built during the GoIT course using HTML, CSS, and JavaScript. The project demonstrates semantic markup, adaptive layout, and basic DOM manipulation to create an interactive user interface.
-CoffeeJoy10
-A landing page for a coffee brand built with HTML, CSS, and JavaScript. Focused on responsive design, clean UI, and interactive elements to deliver a smooth user experience.
+🏠 [Paw Hut](https://bozhenko-zakhar.github.io/goit-markup-js-project/)
+
+A responsive website built during the GoIT course using HTML, CSS, and JavaScript. Demonstrates semantic markup, adaptive layout, and basic DOM manipulation.
+
+☕ [CoffeeJoy10](https://dronsofiia.github.io/project-CoffeeJoy10/)
+
+A landing page for a coffee brand built with HTML, CSS, and JavaScript, focused on responsive design, clean UI, and interactive elements.
 
 ---
 
