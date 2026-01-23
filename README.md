@@ -19,6 +19,10 @@ Git | VS Code
 ---
 
 ## 💻Featured Projects
+GoIT Markup + JavaScript Project
+A responsive website built during the GoIT course using HTML, CSS, and JavaScript. The project demonstrates semantic markup, adaptive layout, and basic DOM manipulation to create an interactive user interface.
+CoffeeJoy10
+A landing page for a coffee brand built with HTML, CSS, and JavaScript. Focused on responsive design, clean UI, and interactive elements to deliver a smooth user experience.
 
 ---
 
