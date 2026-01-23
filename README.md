@@ -22,12 +22,11 @@ Git | VS Code
 
 ## 💻Featured Projects
 🏠 [Paw Hut](https://bozhenko-zakhar.github.io/goit-markup-js-project/)
-
-A responsive website built during the GoIT course using HTML, CSS, and JavaScript. Demonstrates semantic markup, adaptive layout, and basic DOM manipulation.
-
+-a responsive website built during the GoIT course using HTML, CSS, and JavaScript. Demonstrates semantic markup, adaptive layout, and basic DOM manipulation.
+ Fullstack Team Project | Success Stories | Frontend Team Project | Success stories Section
+ 
 ☕ [CoffeeJoy10](https://dronsofiia.github.io/project-CoffeeJoy10/)
-
-A landing page for a coffee brand built with HTML, CSS, and JavaScript, focused on responsive design, clean UI, and interactive elements.
+-responsive website from GoIT course | HTML, CSS, JS | Semantic markup, adaptive layout, DOM basics | Fullstack Team Project | Success Stories | Frontend Project
 
 ---
 
